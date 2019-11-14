@@ -1,2 +1,1 @@
-Hello Word!
-oops
+Test diff status
