@@ -1,4 +1,6 @@
 First commit
 Изменения
 
+<<<<<<< HEAD
 Master commit "1111111111111111"
+=======
